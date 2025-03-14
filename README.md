@@ -159,3 +159,4 @@ The synthetic data is evaluated using multiple approaches:
 2. **Correlation Matrix Comparison**: Ensures feature relationships are preserved
 3. **Distribution Comparison**: Validates feature distributions match
 4. **ML Model Performance**: Trains models on synthetic data and tests on real data
+5. You can find result of the project in result.png file
