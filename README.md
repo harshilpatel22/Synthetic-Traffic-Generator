@@ -1,4 +1,5 @@
-# Synthetic Network Traffic Data Generator
+# Synthetic Network Traffic Data Generator Course Project For Network And Information Security BITE401L
+
 
 A robust tool for generating synthetic network traffic data that closely mimics real traffic patterns, preserving statistical properties while enabling better anomaly detection model training.
 
